@@ -8,5 +8,5 @@
 ความรู้ในการทำ Linear Regression สามารถดูได้ที่
 - https://www.ilog.ai/linear-regression-for-ml/
 - https://www.ilog.ai/gradient-descent-for-cost-function/
-- https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+- https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html
 - https://www.algorithmtut.com/สอน-machine-learning/
