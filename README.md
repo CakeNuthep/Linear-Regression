@@ -4,4 +4,3 @@
 ใช้ Library ที่ชื่อว่า LiveChart ในการวาดกราฟ -สามารถดูวิธีการลงได้ที่ https://www.youtube.com/watch?v=NbTnLihviq8&t=180s
 
 สามารถดูวิธีการใช้ Live Chart ได้ที่ https://lvcharts.net/App/examples/v1/wpf/Scatter%20Plot
-K-Nearest Neighbors
