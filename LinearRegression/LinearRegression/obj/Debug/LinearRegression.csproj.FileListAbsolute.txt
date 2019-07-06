@@ -22,3 +22,27 @@ D:\LearningC#\page\Linear Regression\App\LinearRegression\LinearRegression\bin\D
 D:\LearningC#\page\Linear Regression\App\LinearRegression\LinearRegression\bin\Debug\LiveCharts.Wpf.pdb
 D:\LearningC#\page\Linear Regression\App\LinearRegression\LinearRegression\bin\Debug\LiveCharts.Wpf.xml
 D:\LearningC#\page\Linear Regression\App\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Form1.resources
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe.config
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LinearRegression.pdb
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\CsvHelper.dll
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.dll
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.WinForms.dll
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.Wpf.dll
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\System.ValueTuple.dll
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\CsvHelper.xml
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.pdb
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.xml
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.WinForms.pdb
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.WinForms.xml
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.Wpf.pdb
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\LiveCharts.Wpf.xml
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\bin\Debug\System.ValueTuple.xml
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csprojAssemblyReference.cache
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Form1.resources
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Properties.Resources.resources
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.GenerateResource.cache
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.CoreCompileInputs.cache
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.CopyComplete
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.exe
+D:\LearningC#\page\Linear Regression\Linear Regression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.pdb
