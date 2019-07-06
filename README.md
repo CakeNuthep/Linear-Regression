@@ -11,4 +11,4 @@
 - https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html
 - https://www.algorithmtut.com/สอน-machine-learning/
 
-![alt text](https://github.com/CakeNuthep/Linear-Regression/Application.JPG)
+![alt text](https://github.com/CakeNuthep/Linear-Regression/blob/master/Application.JPG)
